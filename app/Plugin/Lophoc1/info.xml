@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<info>
+    <name>Lớp học</name>
+    <key>Lophoc</key>
+    <version>1.0.0</version>
+    <description>Tạo và quản lý lớp học</description>
+    <author>MrK</author>
+    <website>http://localhost/moo/</website>
+    <bootstrap>1</bootstrap>
+    <routes>1</routes>
+    <addtomenu>1</addtomenu>
+</info>

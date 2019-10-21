@@ -1,0 +1,2256 @@
+2019-10-16 15:00:40 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(11): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:00:40 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(11): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:10:06 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(11): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:10:06 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(11): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:10:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(12): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:10:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(1755): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(12): Model->save(Array)
+#3 [internal function]: LophocsController->taolopmoi()
+#4 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#8 {main}
+2019-10-16 15:13:52 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:13:52 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:15:27 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:15:27 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:36:13 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:36:13 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:47:20 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:47:20 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:47:29 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:47:29 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:48:15 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 15:48:15 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:01:22 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:01:22 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(8): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:26 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:02:26 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:05:09 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:05:09 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:05:21 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:05:21 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:14:41 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:14:41 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:15:26 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:15:26 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:17:01 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:17:01 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:18:47 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:18:47 Error: [MissingTableException] Table lophocs for model Lophocs was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophocs',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->__call('danhsachlop', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): AppModel->danhsachlop()
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:22:34 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/notifications/refresh
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 C:\xampp\htdocs\moo\app\Controller\NotificationsController.php(17): AppController->beforeFilter()
+#8 [internal function]: NotificationsController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(NotificationsController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:22:34 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/notifications/refresh
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 C:\xampp\htdocs\moo\app\Controller\NotificationsController.php(17): AppController->beforeFilter()
+#8 [internal function]: NotificationsController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(NotificationsController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:22:34 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-16 16:22:34 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-16 16:22:34 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-16 16:22:34 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-16 16:22:35 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/cron/task/run?key=3FSE%40
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 C:\xampp\htdocs\moo\app\Plugin\Cron\Controller\TaskController.php(22): AppController->beforeFilter()
+#8 [internal function]: TaskController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TaskController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:22:35 Error: [MissingTableException] Table lophocs for model User was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'User',
+  'ds' => 'default',
+)
+Request URL: /moo/cron/task/run?key=3FSE%40
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(834): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\app\Model\User.php(650): Model->__call('findById', Array)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->__call('findById', Array)
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(254): User->findById('1')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1337): AppController->_getUser()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(150): AppController->doThemeProcess()
+#7 C:\xampp\htdocs\moo\app\Plugin\Cron\Controller\TaskController.php(22): AppController->beforeFilter()
+#8 [internal function]: TaskController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(TaskController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:24:44 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:24:44 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:24:44 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:24:44 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:24:59 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:24:59 Error: Fatal Error (1): Call to a member function find() on null in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:24:59 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:24:59 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:25:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:25:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:28:49 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:28:49 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:30:59 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:30:59 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:27 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:27 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:54 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:54 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:34:55 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:36:11 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/notifications/refresh
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 C:\xampp\htdocs\moo\app\Controller\NotificationsController.php(17): AppController->beforeFilter()
+#8 [internal function]: NotificationsController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(NotificationsController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:36:11 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/notifications/refresh
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 C:\xampp\htdocs\moo\app\Controller\NotificationsController.php(17): AppController->beforeFilter()
+#8 [internal function]: NotificationsController->beforeFilter(Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#12 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(NotificationsController), Object(CakeRequest))
+#13 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#14 {main}
+2019-10-16 16:36:11 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-16 16:36:11 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-16 16:36:16 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-16 16:36:16 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-16 16:36:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:36:19 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:37:36 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:37:36 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:38:00 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:38:00 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:51:25 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:51:25 Error: [MissingTableException] Table aaa for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'aaa',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('aaa')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Model->find('all')
+#4 [internal function]: LophocsController->index()
+#5 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#6 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#9 {main}
+2019-10-16 16:52:25 Error: Fatal Error (1): Call to undefined method LophocsController::find() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:52:25 Error: Fatal Error (1): Call to undefined method LophocsController::find() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 7]
+2019-10-16 16:52:25 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:52:25 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 16:53:38 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php(5): Model->find('all')
+#4 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Lophoc->danhsachlop()
+#5 [internal function]: LophocsController->index()
+#6 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-10-16 16:53:38 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php(5): Model->find('all')
+#4 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Lophoc->danhsachlop()
+#5 [internal function]: LophocsController->index()
+#6 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-10-16 16:53:41 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php(5): Model->find('all')
+#4 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Lophoc->danhsachlop()
+#5 [internal function]: LophocsController->index()
+#6 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-10-16 16:53:41 Error: [MissingTableException] Table lophocs for model Lophoc was not found in datasource default.
+Exception Attributes: array (
+  'table' => 'lophocs',
+  'class' => 'Lophoc',
+  'ds' => 'default',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3667): Model->setSource('lophocs')
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3038): Model->getDataSource()
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3010): Model->_readDataSource('all', Array)
+#3 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php(5): Model->find('all')
+#4 C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php(7): Lophoc->danhsachlop()
+#5 [internal function]: LophocsController->index()
+#6 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(LophocsController), Array)
+#7 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2019-10-16 17:03:47 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php, line 10]
+2019-10-16 17:03:47 Error: Fatal Error (4): syntax error, unexpected '}' in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Model\Lophoc.php, line 10]
+2019-10-16 17:03:47 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:03:47 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 10, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:26:03 Error: Fatal Error (1): Call to undefined function preint_r() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\taolopmoi.ctp, line 3]
+2019-10-16 17:26:03 Error: Fatal Error (1): Call to undefined function preint_r() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\taolopmoi.ctp, line 3]
+2019-10-16 17:26:03 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:26:03 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 3, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:30:56 Error: Fatal Error (1): Call to undefined function log_message() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 13]
+2019-10-16 17:30:56 Error: Fatal Error (1): Call to undefined function log_message() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 13]
+2019-10-16 17:30:56 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:30:56 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:31:19 Error: Fatal Error (1): Call to undefined function log_message() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 13]
+2019-10-16 17:31:19 Error: Fatal Error (1): Call to undefined function log_message() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 13]
+2019-10-16 17:31:19 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:31:19 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:32:41 Error: 123
+2019-10-16 17:32:41 Error: 123
+2019-10-16 17:33:13 Error: 567
+2019-10-16 17:33:13 Error: 567
+2019-10-16 17:33:13 Error: 890
+2019-10-16 17:33:13 Error: 890
+2019-10-17 09:25:31 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\index.ctp, line 7]
+2019-10-17 09:25:31 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\index.ctp, line 7]
+2019-10-17 09:25:31 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-17 09:25:31 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-17 09:31:42 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\index.ctp, line 23]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Lophoc\View\Lophocs\index.ctp, line 23
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::render() - CORE\Cake\View\View.php, line 473
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 80
+
+2019-10-17 09:31:42 Warning: Warning (2): Invalid argument supplied for foreach() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\index.ctp, line 23]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+include - APP\Plugin\Lophoc\View\Lophocs\index.ctp, line 23
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::render() - CORE\Cake\View\View.php, line 473
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 200
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 167
+[main] - APP\webroot\index.php, line 80
+
+2019-10-17 11:46:58 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-17 11:46:58 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-17 11:47:02 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-17 11:47:02 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-17 14:23:02 Error: [SocketException] Invalid email: "Mạng xã hội DTT"
+Request URL: /moo/users/ajax_signup_step2
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(592): CakeEmail->_validateEmail('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...')
+#1 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(642): CakeEmail->_setEmail('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#2 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(387): CakeEmail->_setEmailSingle('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial', 'From requires o...')
+#3 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(45): CakeEmail->from('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#4 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(219): MooMailComponent->getMooCakeMail()
+#5 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(276): MooMailComponent->sendRow('phong@gmail.com', 'welcome_user', Array)
+#6 C:\xampp\htdocs\moo\app\Lib\MooListener.php(159): MooMailComponent->send('phong@gmail.com', 'welcome_user', Array)
+#7 [internal function]: MooListener->doSaveUser(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\app\Controller\UsersController.php(717): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\app\Controller\UsersController.php(596): UsersController->_saveRegistration(Array)
+#11 [internal function]: UsersController->ajax_signup_step2()
+#12 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2019-10-17 14:23:02 Error: [SocketException] Invalid email: "Mạng xã hội DTT"
+Request URL: /moo/users/ajax_signup_step2
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(592): CakeEmail->_validateEmail('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...')
+#1 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(642): CakeEmail->_setEmail('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#2 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(387): CakeEmail->_setEmailSingle('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial', 'From requires o...')
+#3 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(45): CakeEmail->from('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#4 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(219): MooMailComponent->getMooCakeMail()
+#5 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(276): MooMailComponent->sendRow('phong@gmail.com', 'welcome_user', Array)
+#6 C:\xampp\htdocs\moo\app\Lib\MooListener.php(159): MooMailComponent->send('phong@gmail.com', 'welcome_user', Array)
+#7 [internal function]: MooListener->doSaveUser(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\app\Controller\UsersController.php(717): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\app\Controller\UsersController.php(596): UsersController->_saveRegistration(Array)
+#11 [internal function]: UsersController->ajax_signup_step2()
+#12 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2019-10-17 15:47:08 Error: [MissingViewException] View file "Lop\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Lop\\index.ctp',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\moo\app\View\MooView.php(801): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(963): MooView->render(NULL, NULL)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(981): Controller->render(NULL, NULL)
+#4 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(200): AppController->render()
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2019-10-17 15:47:08 Error: [MissingViewException] View file "Lop\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Lop\\index.ctp',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\moo\app\View\MooView.php(801): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(963): MooView->render(NULL, NULL)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(981): Controller->render(NULL, NULL)
+#4 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(200): AppController->render()
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2019-10-17 15:47:16 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:16 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:29 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:29 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:59 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:59 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:49:35 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:49:35 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:51:58 Error: [MissingControllerException] Controller class LophocController could not be found.
+Exception Attributes: array (
+  'class' => 'LophocController',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophoc
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:51:58 Error: [MissingControllerException] Controller class LophocController could not be found.
+Exception Attributes: array (
+  'class' => 'LophocController',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophoc
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-18 08:46:40 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/home
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-18 08:46:40 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/home
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-18 08:46:41 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-18 08:46:41 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-18 08:46:47 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-18 08:46:47 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-18 08:46:47 Warning: Warning (2): in_array() expects parameter 2 to be array, null given in [C:\xampp\htdocs\moo\app\View\Layouts\default.ctp, line 133]
+Trace:
+ErrorHandler::handleError() - CORE\Cake\Error\ErrorHandler.php, line 230
+in_array - [internal], line ??
+include - APP\View\Layouts\default.ctp, line 133
+View::_evaluate() - CORE\Cake\View\View.php, line 971
+View::_render() - CORE\Cake\View\View.php, line 933
+View::renderLayout() - CORE\Cake\View\View.php, line 546
+View::render() - CORE\Cake\View\View.php, line 481
+MooView::render() - APP\View\MooView.php, line 801
+Controller::render() - CORE\Cake\Controller\Controller.php, line 963
+AppController::render() - APP\Controller\AppController.php, line 981
+ExceptionRenderer::_outputMessage() - CORE\Cake\Error\ExceptionRenderer.php, line 292
+ExceptionRenderer::error500() - CORE\Cake\Error\ExceptionRenderer.php, line 260
+ExceptionRenderer::render() - CORE\Cake\Error\ExceptionRenderer.php, line 190
+ErrorHandler::handleException() - CORE\Cake\Error\ErrorHandler.php, line 127
+[main] - [internal], line ??
+
+2019-10-18 10:07:03 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Lophoc.Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:07:03 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Lophoc.Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:08:02 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Lophoc.Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:08:02 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Lophoc.Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:08:28 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:08:28 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:20:21 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:20:21 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:21:20 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:21:20 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:54:34 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:54:34 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:54:35 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:54:35 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:57:44 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:57:44 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:58:15 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:58:15 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:58:27 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2019-10-18 10:58:27 Error: [MissingComponentException] Component class CheckComponent could not be found.
+Exception Attributes: array (
+  'class' => 'CheckComponent',
+  'plugin' => false,
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Controller\ComponentCollection.php(53): ComponentCollection->load('Check', Array)
+#1 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(644): ComponentCollection->init(Object(LophocsController))
+#2 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(188): Controller->constructClasses()
+#3 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#4 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}

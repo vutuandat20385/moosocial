@@ -1,0 +1,117 @@
+/*topic list*/
+.topic-content-list{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+ul.topic-content-list > li{
+    padding-bottom:15px;
+    position:relative;
+    padding-top:15px;
+    border-top:1px solid #dfdfdf;
+}
+ul#list-content ul.topic-content-list:first-child li:first-child {
+    border: none;
+}
+ul.topic-content-list > li:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+.topic-content-list > li .list_option{
+    top:15px;
+}
+.topic-content-list > li > a{
+    float: left;
+    width: 140px;
+}
+.topic-content-list li .topic-info{
+    margin-left: 150px;
+      margin-right: 30px;
+}
+.topic-content-list li .topic-info .title{
+    font-size: 16px;
+    font-weight: bold;
+    overflow: hidden;
+}
+.topic-description-truncate{
+    line-height: 1.5;
+    margin: 0px 0 0;
+    word-wrap: break-word;
+    margin-top: 10px;
+}
+.topic-info .like-section {
+  float: left;
+  margin-top: 10px;
+}
+/*topic view*/
+.topic-comment .comment .qq-upload-button {
+  height: 35px!important;
+}
+.topic-comment .comment .upload-section {
+  line-height: 35px;
+}
+.topic-comment ul{
+    list-style: none;
+    padding: 0;
+    margin:0;
+}
+.topic-comment #comments .comment{
+      margin-right: 30px;
+}
+.topic-comment ul#comments li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+/*end topic view*/
+/*topic block*/
+.topic-block{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+ul.topic-block li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+ul.topic-block li{
+    padding: 7px 2px;
+}
+.topic-block li+li {
+  border-top: 1px solid #dfdfdf;
+}
+.topic-block li .topic_info{
+    margin-left:80px;
+}
+/*end topic block*/
+.topic_attached_file ul li a{
+    display: block;
+    height: 0;
+    padding-bottom: 100%;
+    background-size: cover;
+}
+#images-uploader #triggerUpload{
+  margin-left:0;
+  margin-bottom:5px;
+}
+@media (max-width: 991px){
+    .topic-content-list .list_option{
+        right: 10px;
+        top: 10px;
+    }
+}
+@media (max-width: 767px){
+    .topic-content-list > li > a{
+        width:70px;
+    }
+    .topic-content-list li .topic-thumb{
+        width:70px;
+        height:70px;
+    }
+    .topic-content-list li .topic-info{
+        margin-left:80px;
+    }
+    
+}

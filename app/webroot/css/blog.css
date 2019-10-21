@@ -1,0 +1,125 @@
+/*blog index*/
+.blog-content-list{
+    list-style: none;
+    padding:0;
+}
+ul.blog-content-list li:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+ul.blog-content-list > li{
+    padding-bottom: 15px;
+    position:relative;
+    border-top: 1px solid #dfdfdf;
+    padding-top: 15px;
+}
+ul.blog-content-list li .list_option{
+    top: 15px;
+}
+ul#list-content ul.blog-content-list:first-child li:first-child {
+    border: none;
+    
+}
+.blog-info .title{
+    font-size: 16px;
+    display: block;
+    font-weight: bold;
+    overflow: hidden;
+}
+.blog-description-truncate{
+    line-height: 1.5;
+    margin: 0px 0 0;
+    word-wrap: break-word;
+    margin-top: 10px;
+}
+.blog-info{
+    margin-left:160px;
+    margin-right: 30px;
+}
+.blog-info .like-section {
+  float: left;
+  margin-top: 10px;
+}
+/*blog view*/
+.blog-comment .comment .qq-upload-button {
+  height: 35px!important;
+}
+.blog-comment .comment .upload-section {
+  line-height: 35px;
+}
+.blog-comment .comment{
+      margin-right: 30px;
+}
+.blog-comment #commentForm .comment{
+    margin-right:0;
+}
+.post_body{
+  line-height: 1.5;
+  margin: 0px 0 0;
+  font-size: 13px;
+  word-wrap: break-word;
+}
+.blog-owner{
+      padding: 10px;
+}
+.blog-owner > img {
+  float: left;
+}
+.blog-owner:after {
+  clear: both;
+  content: '';
+  display: block;
+}
+.blog-owner .box_content{
+    margin-left:60px;
+}
+.blog-owner ul{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+/*blog block*/
+.blog-block{
+    list-style:none;
+    padding:0;
+    margin:0;
+}
+
+.blog-block li{
+    padding: 2px 2px 5px;;
+}
+.blog-block li:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+.blog-block li + li {
+  border-top: 1px solid #dfdfdf;
+}
+.blog-block .blog_detail{
+    margin-left:80px;
+}
+.blog-block .blog_detail .title-list a{
+    font-weight: bold;
+    font-size: 13px;
+}
+.blog_view_leftnav{
+    margin:4px 0 10px 0;
+}
+/*end blog block*/
+@media (max-width: 991px){
+    .blog-content-list .list_option{
+        right: 10px;
+        top: 10px;
+    }
+}
+@media (max-width: 767px){
+    .blog-content-list .blog-info{
+        margin-left:70px;
+    }
+}
+
+.blog-owner .menu {
+    margin-left: 60px;
+}

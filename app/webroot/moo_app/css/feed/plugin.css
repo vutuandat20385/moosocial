@@ -1,0 +1,80 @@
+
+/* STATUS BG PLUGIN*/
+.feed-background {
+    display: flex;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+}
+.feed-background::before, .feed-background::after {
+    background-color: rgba(0, 0, 0, .1);
+    content: '';
+    display: block;
+    height: 1px;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+.feed-background-box {
+    align-items: center;
+    bottom: 0;
+    display: flex;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+.feed-background-content {
+    box-sizing: border-box;
+    flex-grow: 1;
+    width: 100%;
+    padding: 50px 30px;
+    text-align: center;
+    font-size: 30px !important;
+    font-weight: 700 !important;
+    line-height: 42px !important;
+    word-wrap: break-word;
+}
+.feed-background-content .iconos {
+    vertical-align: middle;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.feed-background-content .iconos {
+    -ms-transform: scale(1.5) translate(0,0);
+    -webkit-transform: scale(1.5) translate(0,0);
+    transform: scale(1.5) translate(0,0);
+}
+/* END STATUS BG */
+
+/* FEELING PLUGIN*/
+.feed-feeling {
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.feed-feeling .feeling-icon {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    margin-top: -3px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    vertical-align: middle;
+}
+/*END FEELING*/
+
+/* CHECK IN */
+.checkin_show_activity_map {
+    display: inline-block;
+}
+/* END CHECK IN */
+
+/* PROFILE VERIFY */
+img.icon-verification-username-profile {
+    height: 25px;
+    margin: 0 5px;
+}
+/* END PROFILE VERIFY*/
+

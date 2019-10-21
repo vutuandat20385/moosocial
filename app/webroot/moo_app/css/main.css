@@ -1,0 +1,202 @@
+body {
+    font-family: "Roboto, sans-serif";
+}
+.video_browse:last-of-type .video_border ,
+.topic_browse:last-of-type .topic_border {
+    display: none;
+}
+a:link,a:visited,a:hover,a:active {
+    text-decoration: none;
+    color: #247BBA;
+    font-weight: bold;
+}
+#flashMessage, #errorMessage {
+    font-family: "Roboto, sans-serif";
+    font-size: 14px;
+    border-radius: 0;
+    margin: -8px -8px 10px !important;
+    border: none;
+    text-align: center;
+    padding:10px;
+}
+.video-detail {
+    position: relative;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video-detail iframe {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+.post-body img {
+    max-width: 100%;
+    height: auto;
+}
+div.message {
+    color: #468847;
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 3px;
+}
+div.error-message {
+    color: #b94a48;
+    background-color: #f2dede;
+    border: 1px solid #eed3d7;
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 3px;
+}
+.boxGradient{
+    position: absolute;
+    height: 100%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 2;
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(bottom,rgba(0,0,0,.5) 0,transparent);
+    background-image: linear-gradient(bottom,rgba(0,0,0,.5) 0,transparent);
+}
+.browseDes a ,
+.commentFeed a ,
+.commentFeed a.moocore_tooltip_link {
+    pointer-events: none;
+    cursor: default;
+}
+.alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+    font-family: "Roboto, sans-serif";
+}
+.alert-warning {
+    color:#8a6d3b;
+    background-color:#fcf8e3;
+    border-color:#faebcc;
+    font-family: "Roboto, sans-serif";
+}
+div#confirm_remindMessage {
+    margin: -8px -6px 10px;
+    padding: 5px;
+    background: #fff;
+    color: #000;
+}
+.mobile_suggest {
+    position: fixed;
+    padding-bottom: 30px;
+    bottom: 0;
+    left: 0;
+    font-size: 16px;
+    right: 0;
+    background: #fff;
+    padding: 10px 10px 30px 10px;
+    z-index: 100000;
+    -webkit-box-shadow: 0px -1px 3px 1px rgba(194,194,194,1);
+    -moz-box-shadow: 0px -1px 3px 1px rgba(194,194,194,1);
+    box-shadow: 0px -1px 3px 1px rgba(194,194,194,1);
+}
+
+.footer_top img{
+    float: left;
+}
+.footer_top > div{
+    margin-left: 85px;
+    padding-top: 9px;
+}
+.footer_bottom{
+    clear: both;
+    padding-top: 10px;
+    text-align: right;
+    text-transform: uppercase;
+}
+.mobile_suggest > div{
+    max-width: 350px;
+    margin: 0 auto;
+}
+.footer_top > div > div {
+    margin-bottom: 3px;
+}
+a.close_suggest {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    font-size: 17px;
+    color: rgba(0,0,0,0.54);
+}
+
+.mobile_suggest .footer_bottom
+{
+    font-size: 14px;
+}
+
+.mobile_suggest .footer_bottom .btn-action
+{
+    padding: 4px 10px !important;
+    color:#fff;
+}
+.post-body {
+    word-break: break-word;
+}
+.online-stt {
+    display: block;
+    width: 15px;
+    height: 15px;
+    background: #5CCF8D;
+    border-radius: 50%;
+    border: 1px solid #fff;
+    position: absolute;
+    left: 10px;
+    bottom: 20px;
+}
+.video-detail video {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+.profile_menu_scroll {
+    max-height: 400px;
+}
+.post-body * {
+    max-width: 100%;
+}
+
+/*CSS FOR PLUGIN*/
+img.icon-role-badge-username-feed {
+    height: 14px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+img.icon-verification-username-feed {
+    height: 14px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+img.icon-role-badge-profile-name {
+    height: 25px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+img.icon-verification-profile-name {
+    height: 25px;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+img.icon-role-badge {
+    height: 25px;
+}
+.feed-background-content a {
+    color: inherit !important;
+}
+/*END CSS FOR PLUGIN*/

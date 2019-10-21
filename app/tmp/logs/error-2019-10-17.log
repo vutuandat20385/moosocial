@@ -1,0 +1,112 @@
+2019-10-17 09:25:31 Error: Fatal Error (4): syntax error, unexpected ';' in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\View\Lophocs\index.ctp, line 7]
+2019-10-17 09:25:31 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 7, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-17 11:46:58 Error: [MissingConnectionException] Database connection "Moosql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Moosql',
+  'message' => 'SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+',
+  'enabled' => true,
+)
+Request URL: /moo/
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Model\Datasource\DboSource.php(269): Mysql->connect()
+#1 C:\xampp\htdocs\moo\lib\Cake\Model\ConnectionManager.php(105): DboSource->__construct(Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(3640): ConnectionManager::getDataSource('default')
+#3 C:\xampp\htdocs\moo\lib\Cake\Model\Model.php(918): Model->setDataSource()
+#4 C:\xampp\htdocs\moo\app\Controller\AppController.php(173): Model->__get('tablePrefix')
+#5 C:\xampp\htdocs\moo\app\Controller\AppController.php(1107): AppController->loadUnBootSetting()
+#6 C:\xampp\htdocs\moo\app\Controller\AppController.php(147): AppController->loadingApplicationSettings()
+#7 [internal function]: AppController->beforeFilter(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(189): Controller->startupProcess()
+#11 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(HomeController), Object(CakeRequest))
+#12 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#13 {main}
+2019-10-17 14:23:02 Error: [SocketException] Invalid email: "Mạng xã hội DTT"
+Request URL: /moo/users/ajax_signup_step2
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(592): CakeEmail->_validateEmail('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...')
+#1 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(642): CakeEmail->_setEmail('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#2 C:\xampp\htdocs\moo\lib\Cake\Network\Email\CakeEmail.php(387): CakeEmail->_setEmailSingle('_from', 'M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial', 'From requires o...')
+#3 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(45): CakeEmail->from('M\xE1\xBA\xA1ng x\xC3\xA3 h\xE1\xBB\x99...', 'MooSocial')
+#4 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(219): MooMailComponent->getMooCakeMail()
+#5 C:\xampp\htdocs\moo\app\Plugin\Mail\Controller\Component\MooMailComponent.php(276): MooMailComponent->sendRow('phong@gmail.com', 'welcome_user', Array)
+#6 C:\xampp\htdocs\moo\app\Lib\MooListener.php(159): MooMailComponent->send('phong@gmail.com', 'welcome_user', Array)
+#7 [internal function]: MooListener->doSaveUser(Object(CakeEvent))
+#8 C:\xampp\htdocs\moo\lib\Cake\Event\CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#9 C:\xampp\htdocs\moo\app\Controller\UsersController.php(717): CakeEventManager->dispatch(Object(CakeEvent))
+#10 C:\xampp\htdocs\moo\app\Controller\UsersController.php(596): UsersController->_saveRegistration(Array)
+#11 [internal function]: UsersController->ajax_signup_step2()
+#12 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(491): ReflectionMethod->invokeArgs(Object(UsersController), Array)
+#13 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#14 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest))
+#15 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}
+2019-10-17 15:47:08 Error: [MissingViewException] View file "Lop\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'Lop\\index.ctp',
+)
+Request URL: /moo/lophocs
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\View\View.php(470): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\moo\app\View\MooView.php(801): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\moo\lib\Cake\Controller\Controller.php(963): MooView->render(NULL, NULL)
+#3 C:\xampp\htdocs\moo\app\Controller\AppController.php(981): Controller->render(NULL, NULL)
+#4 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(200): AppController->render()
+#5 C:\xampp\htdocs\moo\lib\Cake\Routing\Dispatcher.php(167): Dispatcher->_invoke(Object(LophocsController), Object(CakeRequest))
+#6 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#7 {main}
+2019-10-17 15:47:16 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:29 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:47:59 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:49:35 Error: [MissingControllerException] Controller class LopController could not be found.
+Exception Attributes: array (
+  'class' => 'LopController',
+  'plugin' => NULL,
+)
+Request URL: /moo/Lop
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2019-10-17 15:51:58 Error: [MissingControllerException] Controller class LophocController could not be found.
+Exception Attributes: array (
+  'class' => 'LophocController',
+  'plugin' => 'Lophoc',
+)
+Request URL: /moo/lophoc
+Stack Trace:
+#0 C:\xampp\htdocs\moo\app\webroot\index.php(80): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

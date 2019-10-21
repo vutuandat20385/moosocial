@@ -1,0 +1,310 @@
+/*Video list*/
+.event_content_list{
+    list-style:none;
+    padding:0;
+    margin-bottom: 0;
+}
+.event_content_list > li{
+    padding-bottom:15px;
+    position:relative;
+    padding-top:15px;
+    border-top:1px solid #dfdfdf;
+}
+.event_content_list > li:after{
+    display:block;
+    content:'';
+    clear:both;
+}
+ul#list-content ul.event_content_list:first-child li:first-child {
+    border: none;
+}
+.event-list-thumb{
+    display: block;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+}
+.event-date-full {
+    float: left;
+    border: 1px solid #a7a7a7;
+    width: 47px;
+    border-radius: 3px;
+    padding: 4px 10px;
+    background: #F4F4F4;
+    font-size: 12px;
+    color: #000;
+    text-align: center;
+    margin-right: 10px;
+}
+.event-info {
+    font-size: 13px;
+    margin-top: 10px;
+}
+.event_content_list li .event-info div span{
+    float:left;
+    width:70px;
+}
+.event_content_list li .event-info div span + div{
+    margin-left:70px;
+}
+.event_content_list li .list_option{
+    top:15px;
+}
+.event-list-thumb .event-date{
+    background: rgba(0,0,0,0.6);
+    color: #fff;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+/*end video list*/
+/*event view*/
+.event-detail-thumb{
+    height: 250px;
+    overflow: hidden;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 1px solid #dfdfdf;
+    border-bottom: none;
+    display: block;
+}
+.event_gradient_bg {
+    height: 51%;
+    width: 100%;
+    position: absolute;
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(rgba(15,20,31,0) 0,rgba(15,20,31,.1) 25%,rgba(15,20,31,.6) 100%);
+    background-image: linear-gradient(rgba(15,20,31,0) 0,rgba(15,20,31,.1) 25%,rgba(15,20,31,.6) 100%);
+    bottom: 0;
+}
+ul.event-rsvp li {
+    width: 33.3333%;
+    float: left;
+}
+/*end view*/
+.event-date {
+    padding: 4px 10px;
+    background: #F4F4F4;
+    font-size: 12px;
+    color: #000;
+    width: 48px;
+    text-align: center;
+}
+.event-info{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.event-info i{
+    color:#999;
+    color: #999;
+    width: 23px;
+    display: inline-block;
+    font-size: 12px;
+}
+.event_rsvp_block{
+    margin:8px 0 10px 0;
+}
+.map_canvas_event{
+    width:530px; 
+    height:300px;
+}
+.event_rsvp_choose{
+    margin-bottom:10px;
+}
+.event_rsvp_choose > div{
+    margin-bottom:5px;
+}
+.event_rsvp_choose > div input{
+    margin-right:5px;
+}
+/*event block*/
+.event_block .event_thumb{
+    position: relative;
+    display: block;
+    height: 125px;
+    overflow: hidden;
+    text-align:center;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.event_block img{
+    height: 100%;
+    width: auto;
+    display: inline-block;
+    float: none;
+}
+.gradient_bg{
+    height: 51%;
+    width: 100%;
+    position: absolute;
+    background-color: transparent;
+    background-image: -webkit-linear-gradient(rgba(15,20,31,0) 0,rgba(15,20,31,.1) 25%,rgba(15,20,31,.6) 100%);
+    background-image: linear-gradient(rgba(15,20,31,0) 0,rgba(15,20,31,.1) 25%,rgba(15,20,31,.6) 100%);
+    bottom:0;
+}
+.event_no_image .gradient_bg{
+    height:100%;
+}
+.event_block .event_info{
+    padding:5px;
+}
+.event_block .event_info .title{
+    margin-bottom:5px;
+    display:block;
+    font-weight:bold;
+    font-size:13px;
+}
+.event_block .event-date{
+    position: absolute;
+    bottom: 5px;
+    left: 5px;
+    background: none;
+    border: 2px solid #fff;
+    font-size: 13px;
+    color: #fff;
+    height: auto;
+    padding: 4px;
+}
+div#center .event_block li {
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+    height: 210px;
+    padding: 0;
+}
+/*RSVP event*/
+.box2.attending_block ul li, .box2.maybe_attending_block ul li, .box2.not_attending_block ul li{
+    float:left;
+    padding: 2px;
+}
+.box2.attending_block ul li img, .box2.maybe_attending_block ul li img, .box2.not_attending_block ul li img {
+    width: 50px;
+    height:50px;
+}
+.box2 .box_content, .block-body{
+    overflow:visible;
+}
+
+.event_block_list{
+    list-style:none;
+    padding:0;
+    margin-bottom: 0;
+}
+ul.event_block_list li {
+    padding: 0px 0px 5px;
+}
+ul.event_block_list li:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+.event_block_list li + li{
+    border-top:1px solid #dfdfdf;
+    clear:both;
+    padding-top:5px;
+}
+.event_block_list li .event_info{
+    margin-left: 80px;
+}
+.event_block_list li .event_info .title{
+    font-weight:bold;
+    font-size:13px;
+}
+.event_block_list li .event_thumb{
+    float:left;
+    width:75px;
+}
+.event_block_list li .event_info div{
+    font-size: 12px;
+    color: #888;
+    padding-top:3px;
+}
+.birthday-item{
+    background:url(../img/birthday.png) no-repeat;
+    line-height: 30px;
+    padding-left: 40px;
+}
+.box2.event_guest ul li {
+    width: 20%;
+    margin: 0;
+    padding: 1px;
+    text-align: center;
+    float: left;
+}
+@media (min-width: 992px){
+    .event-info-list .title {
+        font-size: 15px;
+    }
+    .event-info-list {
+        margin-left: 165px;
+        margin-right: 30px;
+    }
+    .event-list-thumb{
+        width: 150px;
+        height: 150px;
+        float: left;
+    }
+    .event_feed_image{
+        float: left;
+        width: 150px;
+        height: 150px;
+    }
+    .event_feed_image .event_feed_title{
+        display:none;
+    }
+
+    .event_feed_info .event_info_title{
+        display:block;
+        margin-bottom: 10px;
+    }
+    .event-list-thumb .gradient_bg{
+        display:none;
+    }
+
+}
+@media (max-width: 991px){
+    .event_content_list .list_option{
+        right: 10px;
+        top: 10px;
+    }
+}
+@media (max-width:767px){
+    .event_feed_image .event-date{
+        left: 0;
+        bottom: 0;
+    }
+}
+@media (max-width:480px){
+
+    .event-date-full{
+        display:none;
+    }
+    .event-list-thumb .event-date{
+        position: absolute;
+        bottom: 5px;
+        left: 5px;
+        background: none;
+        border: 2px solid #fff;
+        font-size: 13px;
+        color: #fff;
+        height: auto;
+        padding: 4px;
+        display:block;
+    }
+    .event-info-list{
+        margin-left:0;
+    }
+    .event-info-list{
+        margin-left:0;
+        padding-top:10px;
+    }
+    .event-list-thumb{
+        width: 100%;
+        height: 125px;
+        float: none;
+    }
+}

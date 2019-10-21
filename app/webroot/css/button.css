@@ -1,0 +1,335 @@
+.btn{
+    padding: 4px 10px !important;
+    font-size: 12px;
+    border: none;
+    border-radius: 2px;
+    height: 25.6px;
+}
+.btn-login{
+    font-size: 14px;
+    font-weight: 500;
+}
+a.edit-btn{
+    font-size: 11px;
+    color: #adadad;
+}
+a.edit-btn:before {
+    content: ' . ';
+}
+.btn-login{
+    display: block;
+    width: 100%;
+    border-radius: 2px;
+    height: 40px;
+}
+.fb-login-button{
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    filter: alpha(opacity=0);
+}
+#customBtn {
+    display: block;
+    background: #dd4b39;
+    color: white;
+    white-space: nowrap;
+    height: 40px;
+    width: 60%;
+    border-radius: 2px;
+    margin: 10px auto;
+    cursor: pointer;
+}
+#customBtn:hover {
+    background: #e74b37;
+}
+/** BUTTONS **/
+
+.button {
+    background-color: #e5e5e5;
+    display: -moz-inline-stack;
+    display: inline-block;
+    vertical-align: middle;
+    *vertical-align: auto;
+    zoom: 1;
+    *display: inline;
+    /*border: 1px solid #a7a7a7;*/
+    font-size: 12px;
+    height: 25.6px;
+    line-height: 26px;
+    padding: 0px 12.48px;
+
+    color: #247BBA;
+    margin: 0;
+    text-decoration: none !important;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.button:hover {
+    background-color: #eeeeee;
+}
+.button:active {
+    text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.4);
+    background: #eeeeee;
+    color: #247BBA;
+}
+input.button, button.button {
+    cursor: pointer;
+}
+.button-block {
+    display: block;
+}
+.button.disabled,
+.button.disabled:hover,
+.button.disabled:active,
+input.button:disabled,
+button.button:disabled {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+    background: #EEE;
+    border: 1px solid #dddddd;
+    text-shadow: 0 1px 1px white;
+    color: #999 !important;
+    cursor: default;
+}
+.button-primary {
+    background-color: #00a1cb;
+    border-color: #007998;
+    color: white;
+    text-shadow: 0 -1px 1px rgba(0, 40, 50, 0.35);
+}
+.button-primary:hover {
+    background-color: #00a1cb;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #00A7D3), color-stop(100%, #008db2));
+    background: -webkit-linear-gradient(top, #00A7D3, #008db2);
+    background: -moz-linear-gradient(top, #00A7D3, #008db2);
+    background: -o-linear-gradient(top, #00A7D3, #008db2);
+    background: linear-gradient(top, #00A7D3, #008db2);
+}
+.button-primary:active {
+    background: #1495b7;
+    color: #005065;
+}
+.btn-action {
+    background-color: #D8601F;
+    color: white;
+    font-size: 12px;
+}
+.btn-action:hover{
+    color:#fff;
+    background-color: #E46622;
+}
+.button-highlight, .likes > .active {
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fa9915), color-stop(100%, #d87e04));
+    background: -webkit-linear-gradient(top, #fa9915, #d87e04);
+    background: -moz-linear-gradient(top, #fa9915, #d87e04);
+    background: -o-linear-gradient(top, #fa9915, #d87e04);
+    background: linear-gradient(top, #fa9915, #d87e04);
+    background-color: #f18d05;
+    border-color: #bf7004;
+    color: white;
+    text-shadow: 0 -1px 1px rgba(91, 53, 2, 0.35);
+}
+.button-highlight:hover, .likes > .active:hover {
+    background-color: #f18d05;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #fba42e), color-stop(100%, #d87e04));
+    background: -webkit-linear-gradient(top, #fba42e, #d87e04);
+    background: -moz-linear-gradient(top, #fba42e, #d87e04);
+    background: -o-linear-gradient(top, #fba42e, #d87e04);
+    background: linear-gradient(top, #fba42e, #d87e04);
+}
+.button-highlight:active {
+    background: #d8891e;
+    color: #8d5303;
+}
+.button-caution {
+    background-color: #BD341F;
+    border-color: #c22d18;
+    color: white;
+    text-shadow: 0 -1px 1px rgba(103, 24, 13, 0.35);
+}
+.button-caution:hover {
+    background-color: #d9331a;
+    background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #eb6855), color-stop(100%, #d9331a));
+    background: -webkit-linear-gradient(top, #C42A13, #d9331a);
+    background: -moz-linear-gradient(top, #C42A13, #d9331a);
+    background: -o-linear-gradient(top, #C42A13, #d9331a);
+    background: linear-gradient(top, #C42A13, #d9331a);
+}
+.button-caution:active {
+    background: #cd5240;
+    color: #952312;
+}
+
+.button-flat {
+    box-shadow: none;
+    -webkit-transition-property: background;
+    -moz-transition-property: background;
+    -o-transition-property: background;
+    transition-property: background;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    background: #eeeeee;
+    border: none;
+    text-shadow: none;
+}
+.button-flat:hover {
+    background: #fbfbfb;
+}
+.button-flat:active {
+    -webkit-transition-duration: 0s;
+    -moz-transition-duration: 0s;
+    -o-transition-duration: 0s;
+    transition-duration: 0s;
+    background: #eeeeee;
+    color: #bbbbbb;
+}
+.button-flat.disabled {
+    box-shadow: none;
+}
+.button-flat-primary {
+    box-shadow: none;
+    -webkit-transition-property: background;
+    -moz-transition-property: background;
+    -o-transition-property: background;
+    transition-property: background;
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    -o-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    background: #00a1cb;
+    color: white;
+    text-shadow: none;
+    border: none;
+}
+.button-flat-primary:hover {
+    background: #00b5e5;
+}
+.button-flat-primary:active {
+    -webkit-transition-duration: 0s;
+    -moz-transition-duration: 0s;
+    -o-transition-duration: 0s;
+    transition-duration: 0s;
+    background: #1495b7;
+    color: #00647f;
+}
+.button-flat-primary.disabled {
+    box-shadow: none;
+}
+
+.button-large {
+    font-size: 19px;
+    height: 38.4px;
+    line-height: 38.4px;
+    padding: 0px 30.72px;
+}
+input.button-large, button.button-large {
+    height: 40.4px;
+}
+.button-medium {
+    height: 32px;
+    line-height: 31px;
+    padding: 0px 25.6px;  
+    font-size: 14px;
+}
+.button-small {
+    font-size: 12px;
+    height: 25.6px;
+    line-height: 25.6px;
+    padding: 0px 12.48px;
+}
+input.button-small, button.button-small {
+    height: 27.6px;
+}
+.button-tiny {
+    font-size: 11px;
+    height: 22.4px;
+    line-height: 22.4px;
+    padding: 0px 12.92px;
+}
+input.button-tiny, button.button-tiny {
+    height: 24.4px;
+}
+.button-tiny i { font-size: 11px; }
+
+
+.button-dropdown {
+    position: relative;
+    overflow: visible;
+    display: inline-block;
+}
+
+.button-dropdown .button .icon-caret-down {
+    font-size: 90%;
+    margin: 0px 0px 0px 3px;
+    vertical-align: middle;
+}
+.button-dropdown ul {
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.6);
+    border-radius: 3px;
+    display: none;
+    position: absolute;
+    background: #fcfcfc;
+    top: -2px;
+    left: -2px;
+    z-index: 1000;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    min-width: 102%;
+}
+.button-dropdown ul li {
+    padding: 0px;
+    margin: 0px;
+    display: block;
+}
+.button-dropdown ul li:first-child a {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.button-dropdown ul li:last-child a {
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+.button-dropdown ul .button-dropdown-divider {
+    box-shadow: inset 0px 1px 0px white;
+    border-top: 1px solid #e4e4e4;
+}
+.button-dropdown ul a {
+    display: block;
+    padding: 0px 20px;
+    text-decoration: none;
+    font-size: 12px;
+    color: #333333;
+    line-height: 30px;
+    white-space: nowrap;
+}
+.button-dropdown ul a:hover {
+    background-color: #00a1cb;
+    color: white;
+}
+.inner404 .btn{
+    margin-top:20px;
+}
+.forgot-form .btn-action{
+    vertical-align: top;
+    margin-top: 1px;
+}
+#UserIndexForm .btn-login{
+    height: 30px;
+    width: auto;
+    float:left;
+}
+.btn-album{
+    margin-right: 35px;
+}
+#center.col-md-6 #signUpForm .col-md-sl7{
+    float: none;
+    width: 100%;
+}
+#center.col-md-6 #signUpForm .register_main_form{
+    padding:20px;
+}
+#center.col-md-6 #signUpForm .col-md-sl3{
+    width:100%;
+}

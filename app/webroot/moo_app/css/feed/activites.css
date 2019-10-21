@@ -1,0 +1,18 @@
+body {
+    background: #dddfe2;
+}
+#root {
+    position: relative;
+}
+.feed-icon.material-icons {
+    font-size: 17px;
+    color: #9B9EA3;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+a.bus_feed_size {
+    font-size: 13px;
+}
+[id^="activity-ads_"] + div + [id^="activity-ads_"] {
+    display: none;
+}

@@ -1,0 +1,6 @@
+1657610582
+a:7:{s:2:"id";s:2:"11";s:4:"type";s:12:"welcome_user";s:7:"content";s:248:"<p>[header]</p>
+<p>Thank you for joining our social network. Click the following link and enter your information below to login:</p>
+<p><a href="[login_link]">[login_link]</a></p>
+<p>Email: [email]</p><p>Password: [password]</p>
+<p>[footer]</p>";s:6:"plugin";s:4:"Mail";s:4:"vars";s:78:"[recipient_title],[recipient_link],[site_name],[login_link],[email],[password]";s:7:"subject";s:22:"Welcome to [site_name]";s:6:"locale";s:3:"eng";}

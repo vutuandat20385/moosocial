@@ -1,0 +1,4 @@
+.profilePage  > #profile-content > ul#list-content > li[id^='activity_']{
+    margin-left: 7px;
+    margin-right: 7px;
+}

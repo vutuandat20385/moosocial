@@ -1,0 +1,13 @@
+2019-10-16 17:31:19 Error: Fatal Error (1): Call to undefined function log_message() in [C:\xampp\htdocs\moo\app\Plugin\Lophoc\Controller\LophocsController.php, line 13]
+2019-10-16 17:31:19 Error: [InternalErrorException] Internal Server Error
+Request URL: /moo/lophocs/taolopmoi
+Stack Trace:
+#0 C:\xampp\htdocs\moo\lib\Cake\Error\ErrorHandler.php(212): ErrorHandler::handleFatalError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#2 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(970): call_user_func('ErrorHandler::h...', 1, 'Call to undefin...', 'C:\\xampp\\htdocs...', 13, Array)
+#3 C:\xampp\htdocs\moo\lib\Cake\Core\App.php(943): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2019-10-16 17:32:41 Error: 123
+2019-10-16 17:33:13 Error: 567
+2019-10-16 17:33:13 Error: 890
